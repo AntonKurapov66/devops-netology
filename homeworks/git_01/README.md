@@ -13,6 +13,8 @@
 * ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_01/img/01_3.PNG)
 * ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_01/img/01_4.PNG)
 
+ответ на вопрос про игнорирование лежит в https://github.com/AntonKurapov66/devops-netology/blob/main/README.md 
+
 ### Проверка изменения
 
 * ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_01/img/01_5.PNG)
