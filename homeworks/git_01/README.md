@@ -14,7 +14,7 @@
 * ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_01/img/01_4.PNG)
 
 ответ на вопрос про игнорирование лежит в https://github.com/AntonKurapov66/devops-netology/blob/main/README.md продублирую здесь: 
-* все файлы из директории .terraform из любой поддиректории проекта - **/.terraform/*
+* все файлы из директории .terraform из любой поддиректории проекта - "**/.terraform/*"
 * все файлы которые полностью совпадают по названию - crash.log, override.tf, override.tf.json, .terraformrc, terraform.rc
 * все файлы имеющие расширения .tfvars и .tfstate- *.tfvars, *.tfstate
 * все файлы подходящие под шаблоны - *.tfstate.*, crash.*.log, *.tfvars.json, *_override.tf, *_override.tf.json где вместо * можно подставить любое значение.
