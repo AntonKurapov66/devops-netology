@@ -47,3 +47,7 @@
 ## Задание 4. Упрощаем себе жизнь
 
 ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_8.PNG)
+
+
+* ссылка на GitLab - http://130.193.48.195/root/devops-netology (адрес изменился потому что поднял снова, присвоился другой внешний IP)
+* ссылка на GitHub - https://github.com/AntonKurapov66/devops-netology
