@@ -1,53 +1,44 @@
-# Домашнее задание к занятию "Основы Git" - `Курапов Антон`
+# Домашнее задание к занятию "Ветвления в Git" - `Курапов Антон`
 
-## Задание 1. Знакомимся с GitLab и Bitbucket
+## Подготовка файла merge.sh
 
-до того как добавить удаленный репозиторий 
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/00_1.PNG)
 
-* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_0.PNG)
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/00_2.PNG)
 
-после того как добавил репозиторий и отправил пуш в этот репозиторий
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/00_3.PNG)
 
-* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_1.PNG)
+## Подготовка файла rebase.sh
 
-Проверка в Gitlab (скрин сделал уже после 2 задания, по этому на скрине присутствуют теги)
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/00_4.PNG)
 
-* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_2.PNG)
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/00_5.PNG)
 
-    * Gitlab поднимал на отдельной ВМ 
-    * Bitbucket не дал зарегаться из России (ВПНом не стал пользоваться)
-    
-## Задание 2. Теги
-* GitLab
-  * ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_3_0.PNG)
-    
-  * ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_3_01.PNG)
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/00_6.PNG)
 
-  * ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_3_02.PNG)
+## Промежуточный итог
 
-* GitHub
-  * ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_4_0.PNG)
-    
-  * ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_4_01.PNG)
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/01.PNG)
 
-  * ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_4_02.PNG)
- 
-Легковесные теги менее инфомативны, аннотированные отличаются комментарием и выдаваемой информацией о авторе тега.
+## Merge
 
-## Задание 3. Ветки
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/02.PNG)
 
-* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_5.PNG)
-
-* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_6.PNG)
-
-* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_7.PNG)
-
-  * все комиты которые были добавлены после комита "Prepare to delete and move"  не выдаются в новой ветке "fix" 
+## Rebase
   
-## Задание 4. Упрощаем себе жизнь
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/00_7.PNG)
 
-![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_02/img/01_8.PNG)
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/00_8.PNG)
 
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/00_9.PNG)
 
-* ссылка на GitLab - http://130.193.48.195/root/devops-netology (адрес изменился потому что поднял снова, присвоился другой внешний IP)
-* ссылка на GitHub - https://github.com/AntonKurapov66/devops-netology
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/03.PNG)
+
+## Конечный итог 
+
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/00_91.PNG)
+
+* ![alt text](https://github.com/AntonKurapov66/devops-netology/blob/main/homeworks/git_03/img/03_1.PNG)
+
+ссылка на network - https://github.com/AntonKurapov66/devops-netology/network 
+  
